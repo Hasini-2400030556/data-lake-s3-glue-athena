@@ -1,0 +1,16 @@
+order_id,order_date,customer_id,product,category,city,quantity,unit_price,payment_method
+1001,2026-01-05,C001,Laptop,Electronics,Vijayawada,1,55000,UPI
+1002,2026-01-08,C002,Smartphone,Electronics,Hyderabad,2,25000,Card
+1003,2026-01-12,C003,Headphones,Accessories,Chennai,3,2000,UPI
+1004,2026-01-18,C004,Tablet,Electronics,Bangalore,1,18000,Card
+1005,2026-02-03,C005,Keyboard,Accessories,Vijayawada,2,1500,Cash
+1006,2026-02-10,C006,Smartphone,Electronics,Chennai,1,25000,UPI
+1007,2026-02-15,C007,Laptop,Electronics,Hyderabad,2,55000,Card
+1008,2026-02-22,C008,Mouse,Accessories,Bangalore,4,800,Cash
+1009,2026-03-02,C009,Tablet,Electronics,Vijayawada,2,18000,UPI
+1010,2026-03-09,C010,Headphones,Accessories,Hyderabad,5,2000,Card
+1011,2026-03-15,C011,Keyboard,Accessories,Chennai,3,1500,UPI
+1012,2026-03-20,C012,Laptop,Electronics,Bangalore,1,55000,Card
+1013,2026-04-04,C013,Smartphone,Electronics,Vijayawada,3,25000,UPI
+1014,2026-04-11,C014,Mouse,Accessories,Chennai,2,800,Cash
+1015,2026-04-18,C015,Tablet,Electronics,Hyderabad,1,18000,Card
